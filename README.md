@@ -1,4 +1,4 @@
-# 🧠 arquiapi — Estimador de Edad según tu nombre vía Agify.io
+# 🧠 Estimador de Edad según tu nombre vía Agify.io
 
 Este proyecto es una API REST construida con **Java + Spring Boot** que permite estimar la edad de una persona a partir de su nombre, usando el servicio externo [Agify.io](https://agify.io).
 
