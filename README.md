@@ -87,7 +87,11 @@ Cada vez que haces un push a `main`, se ejecuta el build automáticamente:
 
 ## ✅ Tests exitosos
 
-También ejecuté los tests incluidos en el proyecto y todos pasaron correctamente, lo cual confirma que la lógica implementada funciona como se esperaba.
+Ejecuté los tests del proyecto con el siguiente comando:
+
+```bash
+./mvnw test
+```
 
 📷 *Captura de la terminal con tests exitosos:*
 
