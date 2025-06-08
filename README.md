@@ -79,12 +79,11 @@ Cada vez que haces un push a `main`, se ejecuta el build automáticamente:
   run: mvn clean install
 ```
 
-📷 *Captura del pipeline exitoso en GitHub Actions:*
+📷 *Aqui dejo una captura del pipeline exitoso en GitHub Actions:*
 
-![GitHub Actions Example](https://docs.github.com/assets/images/help/actions/actions-success-status.png)
+![GitHub Actions](https://drive.google.com/uc?export=view&id=1lkdrwzf42KKb6nZ7hvHMmeSi74LOKERX)
 
 ---
-
 ## 🧠 ¿Qué aprendí haciendo esto?
 
 * Cómo consumir APIs externas desde Java usando `RestTemplate`
