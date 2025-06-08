@@ -84,6 +84,16 @@ Cada vez que haces un push a `main`, se ejecuta el build automáticamente:
 ![GitHub Actions](https://drive.google.com/uc?export=view&id=1lkdrwzf42KKb6nZ7hvHMmeSi74LOKERX)
 
 ---
+
+## ✅ Tests exitosos
+
+También ejecuté los tests incluidos en el proyecto y todos pasaron correctamente, lo cual confirma que la lógica implementada funciona como se esperaba.
+
+📷 *Captura de la terminal con tests exitosos:*
+
+![Tests exitosos](https://drive.google.com/uc?export=view&id=1AnKLD0N8RBZLg4QOR0C6YJRHfEItBM8a)
+
+---
 ## 🧠 ¿Qué aprendí haciendo esto?
 
 * Cómo consumir APIs externas desde Java usando `RestTemplate`
